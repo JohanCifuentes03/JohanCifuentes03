@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <a href="https://www.linkedin.com/in/johan-cifuentes-9b791b224/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
       </a>
 </div>
