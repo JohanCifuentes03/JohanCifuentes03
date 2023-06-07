@@ -16,7 +16,13 @@
 
 <div>
     <h4>About me : </h4>
-    <p>- I like maths, and algorithms</p>
-    <p>- I like sports, I am an amateur futsal player</p>
-    <p>- I am currently learning Springboot and Data Analysis</p>
+    <p>- ➗ I like maths, and algorithms</p>
+    <p>- ⚽️ I like sports, I am an amateur futsal player</p>
+    <p>- ☕️ I am currently learning Springboot and Data Analysis</p>
+</div>
+
+<hr>
+<div>
+    <h4>Languages and Tools</h4>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40">
 </div>
