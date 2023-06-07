@@ -11,3 +11,12 @@
         <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
       </a>
 </div>
+
+<hr>
+
+<div>
+    <h4>About me : </h4>
+    <p>- I like maths, and algorithms</p>
+    <p>- I like sports, I am an amateur futsal player</p>
+    <p>- I am currently learning Springboot and Data Analysis</p>
+</div>
