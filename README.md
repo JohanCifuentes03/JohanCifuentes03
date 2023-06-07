@@ -15,7 +15,7 @@
 <hr>
 
 <div>
-    <h4>About me : </h4>
+    <h3>About me : </h3>
     <p>- ➗ I like maths, and algorithms</p>
     <p>- ⚽️ I like sports, I am an amateur futsal player</p>
     <p>- ☕️ I am currently learning Springboot and Data Analysis</p>
@@ -23,7 +23,7 @@
 
 <hr>
 <div>
-    <h4>Languages and Tools</h4>
+    <h3>Languages and Tools</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
