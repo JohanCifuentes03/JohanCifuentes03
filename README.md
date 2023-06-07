@@ -25,4 +25,9 @@
 <div>
     <h4>Languages and Tools</h4>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="40" height="40">
+    
 </div>
