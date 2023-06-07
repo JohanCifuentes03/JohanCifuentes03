@@ -25,9 +25,15 @@
 <div>
     <h3>Languages and Tools</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="40" height="40">
     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="40" height="40">
-    
+</div>
+
+
+<div>
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JohanCifuentes03&theme=dark&hide_border=true)](https://git.io/streak-stats)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanCifuentes03a&hide_progress=true)
 </div>
