@@ -36,7 +36,7 @@
 <hr>
 
 <div>
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JohanCifuentes03&theme=dark&hide_border=true)](https://git.io/streak-stats)
+   
     
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanCifuentes03a&hide_progress=true)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?JohanCifuentes03=anuraghazra&hide_progress=true)
 </div>
