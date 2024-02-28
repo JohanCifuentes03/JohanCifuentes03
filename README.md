@@ -1,16 +1,55 @@
-### Hi there 👋
+<h2>Hey, I'm Johan</h2>
+<p>
+    Currently Studying Software Engineering and QA Automation Engineer. 
+    QA Engineer, Backend Developer, SQL Developer 🎯.
+</p>
 
-<!--
-**JohanCifuentes03/JohanCifuentes03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+    <a href="https://www.linkedin.com/in/johan-cifuentes-9b791b224/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-@Johan Cifuentes-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=Linkedin&amp;link=https://www.linkedin.com/in/johan-cifuentes-9b791b224/" alt="LinkedIn Badge">
+    </a>
+    <a href="https://leetcode.com/johancfuentes/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-@Johan-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Leetcode&amp;link=https://leetcode.com/johancfuentes/" alt="Leetcode Badge">
+    </a>
+    <a href="https://www.facebook.com/johan.lopez3355/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/-@Johan Cifuentes-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=Facebook&amp;link=https://www.facebook.com/johan.lopez3355/" alt="Facebook Badge">
+    </a>
+</div>
+<hr>
 
-Here are some ideas to get you started:
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <iframe src="https://giphy.com/embed/Z5xk7fGO5FjjTElnpT" width="360" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/moodman-dog-confused-rigley-beans-Z5xk7fGO5FjjTElnpT">via GIPHY</a></p>
+    <h2>About me</h2>
+    <ul>
+        <li>🔭 Studying QA Automation Engineer and Software Engineering</li>
+        <li>📖 I also like Data Engineering and Data Analytics</li>
+        <li>👨‍💻 My projects <a href="https://github.com/JohanCifuentes03">Github</a></li>
+        <li>💬 I spend some time learning</li>
+        <li>⚽ I love futsal</li>
+    </ul>
+
+</div>
+
+<h2>Some tools I use</h2>
+<div>
+    <p align="left">
+        
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="25" height="25"/>   
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Java" width="25" height="25" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="Java" width="25" height="25" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="Java" width="25" height="25" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Java" width="25" height="25" /> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Java" width="25" height="25" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Java" width="25" height="25" />
+        
+    </p>
+
+</div>
+
+<h2>My Github Stats</h2>
+<div>
+    <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+    <br>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanCifuentes03&show_icons=true&theme=radical)
+</div>
