@@ -9,7 +9,8 @@ QA Engineer, Backend Developer, SQL Developer 🎯.
 
 ---
 
-![GIF](https://giphy.com/embed/Z5xk7fGO5FjjTElnpT)
+
+![GIF](https://media.giphy.com/media/Z5xk7fGO5FjjTElnpT/giphy.gif)
 
 ## About me
 
