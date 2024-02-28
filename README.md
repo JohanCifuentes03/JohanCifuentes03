@@ -47,9 +47,9 @@
 
 </div>
 
-<h2>My Github Stats</h2>
+<h2>My GitHub Stats</h2>
 <div>
-    <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+    <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
     <br>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanCifuentes03&show_icons=true&theme=radical)
+    <img src="https://github-readme-stats.vercel.app/api?username=JohanCifuentes03&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
 </div>
