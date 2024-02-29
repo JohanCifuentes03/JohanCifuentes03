@@ -22,6 +22,8 @@ QA Engineer, Backend Developer, SQL Developer 🎯.
 
 ## Experience
 
+![vino map gif](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b76112yo86vo5nz3fv4ab7dc9gtnnbqwjxoh4vqxdgz42&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 - **QA Engineer Intern** at XYZ Company (Month Year - Present)
   - Worked on automated testing processes for web applications.
   - Collaborated with cross-functional teams to identify and resolve bugs.
@@ -54,8 +56,5 @@ QA Engineer, Backend Developer, SQL Developer 🎯.
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JohanCifuentes03&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanCifuentes03&layout=compact&theme=radical)
 
-## Special Thanks
-Thanks for being here!
-
-
+## Thanks!
 
