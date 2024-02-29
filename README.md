@@ -19,6 +19,21 @@ QA Engineer, Backend Developer, SQL Developer 🎯.
 - 💬 I spend a lot of time learning new technologies and principles
 - ⚽ I love futsal
 
+
+## Experience
+
+- **QA Engineer Intern** at XYZ Company (Month Year - Present)
+  - Worked on automated testing processes for web applications.
+  - Collaborated with cross-functional teams to identify and resolve bugs.
+  - Developed test scripts using Selenium and Java.
+
+  
+- **SQL Backend Developer** at Pidgin Contact Solutions 
+  - Implement data pipelines using T-SQL and SSIS.
+  - Implemented database schemas and optimized SQL queries for performance.
+  - Create and mainteined data warehousing projects.
+
+
 ## Some tools I use
 
 <p align="left">
