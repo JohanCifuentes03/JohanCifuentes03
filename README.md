@@ -56,5 +56,3 @@ QA Engineer, Backend Developer, SQL Developer 🎯.
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JohanCifuentes03&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanCifuentes03&layout=compact&theme=radical)
 
-## Thanks!
-
