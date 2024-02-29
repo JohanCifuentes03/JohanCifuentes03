@@ -38,7 +38,9 @@ QA Engineer, Backend Developer, SQL Developer 🎯.
 
 
 ## My CV
-![Hoja de Vida](JohanCifuentesCv.pdf)
+[See my full resume in here](JohanCifuentesCv.pdf)
+<br>
+<img src="JohanCifuentesCv_page-0001-1.jpg" alt="alt text" width="200">
 
 ## Some tools I use
 
