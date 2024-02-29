@@ -34,6 +34,7 @@ QA Engineer, Backend Developer, SQL Developer 🎯.
   - Implement data pipelines using T-SQL and SSIS.
   - Implemented database schemas and optimized SQL queries for performance.
   - Create and mainteined data warehousing projects.
+  - Create, update and mainteined stored procedures, views, functions, etc.
 
 
 ## Some tools I use
