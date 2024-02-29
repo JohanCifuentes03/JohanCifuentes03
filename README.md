@@ -47,7 +47,6 @@ QA Engineer, Backend Developer, SQL Developer 🎯.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="Java" width="25" height="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Java" width="25" height="25" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Java" width="25" height="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Java" width="25" height="25" />
     
 </p>
 
